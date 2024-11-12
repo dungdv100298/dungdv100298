@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,graphql,nodejs,solidity,react,redux,nextjs,vue,tailwind,vite,bun,git,yarn,npm,githubactions,mysql,mongodb,postman,webpack,babel,figma,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,python,mysql,mongodb,postman,vite,bun,git,yarn,npm,githubactions,webpack,figma,gitlab)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dungdv100298&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dungdv100298" /></p>
